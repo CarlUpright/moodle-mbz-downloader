@@ -1,0 +1,7 @@
+# Moodle backups (18 GB, too big for GitHub)
+*.mbz
+*.part
+duplicates/
+# per-run working files
+links.txt
+failed.txt
